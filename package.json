@@ -22,7 +22,7 @@
     "bare-process": "^4.0.0",
     "crypto": "^1.0.1",
     "hyperbee": "^2.20.7",
-    "hypercore": "^10.38.1",
+    "hypercore": "^10.38.2",
     "hypercore-crypto": "^3.4.2",
     "hyperdht": "^6.20.1",
     "hyperdrive": "^11.13.3",
