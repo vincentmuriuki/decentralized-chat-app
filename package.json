@@ -28,6 +28,6 @@
     "hyperdrive": "^11.13.3",
     "hyperswarm": "^4.8.4",
     "random-access-memory": "^6.2.1",
-    "sinon": "^19.0.2"
+    "sinon": "^21.0.1"
   }
 }
